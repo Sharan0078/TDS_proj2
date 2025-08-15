@@ -5,4 +5,3 @@ black
 uvicorn
 pyngrok
 python-multipart
-g
